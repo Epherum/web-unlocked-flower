@@ -1,0 +1,25 @@
+.header-container {
+  position: relative;
+  margin-bottom: 100px;
+}
+.header-menu {
+  position: absolute;
+  left: 0;
+  top: 100px;
+  letter-spacing: 1px;
+  font-family: serif;
+  color: #626262;
+  font-weight: 600;
+  text-transform: uppercase;
+  li {
+    margin: 10px 0;
+  }
+}
+
+#header-text {
+  font-size: 20vw;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: serif;
+  font-weight: 600;
+}
